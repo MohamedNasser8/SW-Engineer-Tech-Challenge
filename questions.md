@@ -6,6 +6,7 @@
 
 
 I chose Flask API because it is lightweight, flexible, and well-suited for building scalable RESTful APIs.
+The client and server communicate with each other using HTTP requests. The client sends DICOM data to the server, and the server processes these requests and sends back responses. It's commonly used with web apps.
 
 
 
