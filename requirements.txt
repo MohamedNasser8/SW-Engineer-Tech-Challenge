@@ -1,2 +1,8 @@
-pydicom
-pynetdicom
+pydicom~=2.4.4
+pynetdicom~=2.1.1
+flask~=3.0.3
+flask_sqlalchemy
+
+python-dotenv~=1.0.1
+marshmallow~=3.21.2
+pytest
